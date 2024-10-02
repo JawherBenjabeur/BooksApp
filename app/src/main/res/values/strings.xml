@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Your Books</string>
+    <string name="Tendances"><u><b>Tendances</b></u></string>
+    <string name="Nouveauté"><u><b>Nouveauté</b></u></string>
+    <string name="Aimés"><u><b>Aimés</b></u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_saisirprenom">Merci saisir votre prénom</string>
+    <string name="msg_saisirnom">Merci saisir votre nom</string>
+    <string name="msg_saisirville">Merci saisir votre nom</string>
+    <string name="msg_saisirnumero">Merci saisir votre Numéro de téléphpne</string>
+    <string name="msg_verifier_numero">Merci de valider votre Numéro de téléphpne</string>
+    <string name="msg_saisiremail">Merci saisir votre Email</string>
+    <string name="msg_verifieremail">Merci de valider votre email</string>
+    <string name="msg_saisirpassword">Merci saisir votre Mot de pass</string>
+    <string name="msg_checking">Merci d accepter les conditions</string>
+    <string name="msg_saisirlogin">Merci de saisir votre Login</string>
+
+    <string name="btn_ajoutLivre">Ajouter</string>
+    <string name="btn_inscriptiion">Inscription</string>
+    <string name="btn_connexion">Connexion</string>
+    <string name="btn_inscri_acceuil">Inscription</string>
+    <string name="btn_cnx_acceuil">Connexion</string>
+    <string name="btn_save_profil">Enregistrer</string>
+    <string name="btn_save_password">Enregistrer</string>
+    <string name="btn_edit_profil">Modifier</string>
+    <string name="btn_change_pass">Modifier Mot de pass</string>
+    <string name="btn_add_livre">Ajouter</string>
+    <string name="btn_add_new_Livre">Ajouter un livre</string>
+    <string name="btn_update_book">Modifier ce livre</string>
+    <string name="btnsupprimer">Supprimer ce livre</string>
+    <string name="btn_consult">Consulter ce profil</string>
+    <string name="btn_reserve">je veux ce livre</string>
+
+
+    <string-array name="Categorie">
+        <item>Roman</item>
+        <item>Action</item>
+        <item>Amour</item>
+        <item>Autre</item>
+    </string-array>
+
+    <string name="ipAdresse">http://192.168.1.7:8080/PFE/</string>
+
+</resources>
